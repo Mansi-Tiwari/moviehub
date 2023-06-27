@@ -1,0 +1,32 @@
+@import "../../mixins.scss";
+
+.carouselSection {
+  position: relative;
+  margin-bottom: 70px;
+  padding: 4px;
+  & > .contentWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  .carouselTitle {
+    color: white;
+    font-weight: normal;
+    @include sm {
+      font-size: 0.5rem;
+    }
+    @include md {
+      font-size: 2rem;
+    }
+    @include lg {
+      font-size: 2rem;
+    }
+    @include xl {
+      font-size: 2rem;
+    }
+    @include xxl {
+      font-size: 2rem;
+    }
+  }
+}
