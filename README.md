@@ -2,8 +2,7 @@
 
 MovieHub is a web application that allows users to discover movies, TV shows, and people. It utilizes the TMDB API to fetch data and provide users with a wide range of options to explore and enjoy.
 
-![Untitled design](https://github.com/Mansi-Tiwari/moviehub/assets/78271543/adc63d16-1a3a-4338-898b-0239dd03d228)
-
+![design](https://github.com/Mansi-Tiwari/moviehub/assets/78271543/d68bff5c-e4f1-4a03-a97d-a8d1939f0ad5)
 
 ## Table of Contents
 
