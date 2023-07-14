@@ -42,7 +42,7 @@ To use MovieHub, simply visit [MovieHub](https://moviehub-dusky.vercel.app/) in 
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or encounter any issues while using MovieHub, please feel free to contact us at [moviehub-support@example.com](mailto:moviehub-support@example.com). We appreciate your feedback and will strive to provide the best possible support.
+If you have any feedback, suggestions, or issues regarding the GameZone website, please feel free to open an issue in the GitHub repository. We appreciate your input and will do our best to address any concerns.
 
 ## License
 
