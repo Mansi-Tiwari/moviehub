@@ -42,8 +42,7 @@ To use MovieHub, simply visit [MovieHub](https://moviehub-dusky.vercel.app/) in 
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues regarding the GameZone website, please feel free to open an issue in the GitHub repository. We appreciate your input and will do our best to address any concerns.
-
+If you have any feedback, suggestions, or issues regarding the GameZone website, please feel free to open an issue in the GitHub repository.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
